@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iambetaraybill/kittens-rolodex/static/css/main.097d1798.chunk.css",
+    "main.js": "/iambetaraybill/kittens-rolodex/static/js/main.699af500.chunk.js",
+    "main.js.map": "/iambetaraybill/kittens-rolodex/static/js/main.699af500.chunk.js.map",
+    "runtime-main.js": "/iambetaraybill/kittens-rolodex/static/js/runtime-main.6bf0704c.js",
+    "runtime-main.js.map": "/iambetaraybill/kittens-rolodex/static/js/runtime-main.6bf0704c.js.map",
+    "static/js/2.c1e0678e.chunk.js": "/iambetaraybill/kittens-rolodex/static/js/2.c1e0678e.chunk.js",
+    "static/js/2.c1e0678e.chunk.js.map": "/iambetaraybill/kittens-rolodex/static/js/2.c1e0678e.chunk.js.map",
+    "static/js/3.26c9c44d.chunk.js": "/iambetaraybill/kittens-rolodex/static/js/3.26c9c44d.chunk.js",
+    "static/js/3.26c9c44d.chunk.js.map": "/iambetaraybill/kittens-rolodex/static/js/3.26c9c44d.chunk.js.map",
+    "index.html": "/iambetaraybill/kittens-rolodex/index.html",
+    "static/css/main.097d1798.chunk.css.map": "/iambetaraybill/kittens-rolodex/static/css/main.097d1798.chunk.css.map",
+    "static/js/2.c1e0678e.chunk.js.LICENSE.txt": "/iambetaraybill/kittens-rolodex/static/js/2.c1e0678e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bf0704c.js",
+    "static/js/2.c1e0678e.chunk.js",
+    "static/css/main.097d1798.chunk.css",
+    "static/js/main.699af500.chunk.js"
+  ]
+}
